@@ -1,0 +1,44 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://www.ivanprado.es
+title: Iván de Prado Alonso
+email: ivan.prado@gmail.com
+author: Iván de Prado Alonso
+description: > # "Iván de Prado's Personal Page"
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+# Build sitemap
+gems:
+  - jekyll-sitemap
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - icon: twitter
+    title: twitter
+    url: https://twitter.com/ivanprado
+  - icon: medium
+    title: blog
+    url: https://medium.com/iv%C3%A1n-de-prado-alonso
+  - icon: envelope-o
+    title: email
+    url: mailto:ivan.prado@gmail.com
+  - icon: github
+    title: github
+    url: https://github.com/ivanprado
+  - icon: linkedin
+    title: linkedin
+    url: https://es.linkedin.com/in/ivanprado
+#  - icon: file-pdf-o
+#    title: resume
+#    url:

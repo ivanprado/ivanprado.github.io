@@ -30,9 +30,9 @@ social:
   - icon: medium
     title: blog
     url: https://medium.com/iv%C3%A1n-de-prado-alonso
-  - icon: envelope-o
-    title: email
-    url: mailto:ivan.prado@gmail.com
+#  - icon: envelope-o
+#    title: email
+#    url: mailto:ivan.prado@gmail.com
   - icon: github
     title: github
     url: https://github.com/ivanprado

@@ -2,7 +2,7 @@
 layout: default
 img: montaje-quadvine-small.png
 category: Proud of
-title: Having developed a vineyard yield prediction system 
+title: Developed a vineyard yield prediction system 
 description: |
 ---
 

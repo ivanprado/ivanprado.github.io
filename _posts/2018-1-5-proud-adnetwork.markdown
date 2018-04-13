@@ -1,6 +1,6 @@
 ---
 layout: default
-img: 
+img: Big Big Mac.jpg
 category: Proud of
 title: Handling 4 trillion records dataset 
 ---
@@ -8,4 +8,4 @@ title: Handling 4 trillion records dataset
 * Design and maintenance of Big Data **infrastructure** for an advertising network.
 
 * Design of the **data architecture** for the analytical panels making use 
-of [Splout SQL](http://sploutsql.com/)
+of [Splout SQL](http://sploutsql.com/).

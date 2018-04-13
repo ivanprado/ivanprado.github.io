@@ -209,7 +209,7 @@ h6 {
 
 footer {
     padding: 50px 0;
-    background-color: #f8f8f8;
+/*    background-color: #f8f8f8;*/
 }
 
 p.copyright {
@@ -272,3 +272,14 @@ iframe {
 
 #main-div canvas { position:absolute; top:0; left:0; z-index:0 }
 
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
+/* Extra small devices (767px and down) */
+@media (max-width: 767px) {
+    .row.vertical-align {
+        display: block; /* Turn off the flexible box layout */
+    }
+}

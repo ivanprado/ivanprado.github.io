@@ -2,7 +2,7 @@
 layout: default
 img: sploutsql-logo-caption.png
 category: Proud of
-title: Have founded two Open Source projects
+title: Founded two Open Source projects
 ---
 
 * [Splout SQL](http://sploutsql.com/) is a **Big Data database** ready to serve

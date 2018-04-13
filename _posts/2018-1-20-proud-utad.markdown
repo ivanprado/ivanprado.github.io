@@ -9,4 +9,4 @@ title: Training people on Big Data
 
 * More than **130 professionals** trained during that period.
 
-* Great graduate employability
+* Great graduate employability.

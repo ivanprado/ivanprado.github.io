@@ -33,12 +33,12 @@ social:
 #  - icon: envelope-o
 #    title: email
 #    url: mailto:ivan.prado@gmail.com
-  - icon: github
-    title: github
-    url: https://github.com/ivanprado
   - icon: linkedin
     title: linkedin
     url: https://es.linkedin.com/in/ivanprado
+  - icon: github
+    title: github
+    url: https://github.com/ivanprado
 #  - icon: file-pdf-o
 #    title: resume
 #    url:
